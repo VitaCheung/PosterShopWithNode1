@@ -1,0 +1,28 @@
+extends layout 
+
+block append scripts 
+    //- script(src="/posters.js")
+
+block main-content
+    div.posterPage
+        h1.page-title Posters 
+        p Posters of your choices. One is never enough!
+
+        each product in postersList 
+            div.container 
+                div.box
+                    h2.heading
+                        a(href="#") #{product.name} 
+                    p CAD$#{product.price}
+                    img.Poster(src=product.image alt=product.description)
+        
+       
+
+    
+
+//- Vintage toronto source: https://ideastorm.bigcartel.com/product/vintage-toronto-poster
+//- Marido ideal source: https://www.pinterest.ca/pin/1150880879748603683/ 
+//- 7 rules of life source: https://www.amazon.ca/Rules-Life-Motivational-Poster-Cardstock/dp/B074SM12RP/ref=asc_df_B074SM12RP/?tag=googleshopc0c-20&linkCode=df0&hvadid=292918222533&hvpos=&hvnetw=g&hvrand=3307703664276721219&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000985&hvtargid=pla-377571209723&psc=1 
+//- Frida source: https://posterstore.ca/posters-prints/illustrations-abstract/frida-art-poster/
+//- Abstract sunset source: https://posterstore.ca/posters-prints/illustrations-abstract/abstract-sunset-poster/
+//- Bauhaus collection source:https://www.optimalprint.ca/en/product/category/3000/jzFlxOUPQiA?isPla=1&q=1&voucher=studioca&spot=1&trim=1&substrate=1&gclid=CjwKCAiA_vKeBhAdEiwAFb_nrRS0ajH2XetfG0NbomtIcNcGLHeOWPhlBKRHNM_HfXkOBWrsRYzWtRoCfpYQAvD_BwE&gclsrc=aw.ds

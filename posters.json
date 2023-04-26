@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "63dc3ccf50106838b3ad5dcc"
+  },
+  "name": "Joker",
+  "price": 15,
+  "image": "https://m.media-amazon.com/images/I/71KPOvu-hOL._AC_SY879_.jpg",
+  "description": "film poster of Joker"
+},{
+  "_id": {
+    "$oid": "63dc3d8650106838b3ad5dce"
+  },
+  "name": "Stranger Things3",
+  "price": 17.32,
+  "image": "https://m.media-amazon.com/images/I/81akueB8XVL._AC_SL1500_.jpg",
+  "description": "film poster of Strange Things3"
+},{
+  "_id": {
+    "$oid": "63dd6c3450106838b3ad5dd2"
+  },
+  "name": "Back To the Future",
+  "price": 27.99,
+  "image": "https://m.media-amazon.com/images/I/81N39BJ1nHL._AC_SL1500_.jpg",
+  "description": "film poster of Back To The Future"
+},{
+  "_id": {
+    "$oid": "63dd9da0f587fd507355c099"
+  },
+  "name": "Vintage Toronto",
+  "price": 28.99,
+  "image": "https://assets.bigcartel.com/product_images/169255957/Vintage_Toronto_Poster_smaller.png?auto=format&fit=max&h=1000&w=1000",
+  "description": "Digital Print of Toronto"
+},{
+  "_id": {
+    "$oid": "63dda391f587fd507355c09a"
+  },
+  "name": "Marido ideal",
+  "price": 23.5,
+  "image": "https://i.pinimg.com/564x/56/72/b1/5672b13718380e6eaea917bfadc49de7.jpg",
+  "description": "graphic design poster of Marido ideal"
+},{
+  "_id": {
+    "$oid": "63dda489f587fd507355c09b"
+  },
+  "name": "7 Rules of Life",
+  "price": 15,
+  "image": "https://m.media-amazon.com/images/I/A17o1aB2nBL._AC_SX679_.jpg",
+  "description": "Graphic poster 7 Rules of life"
+},{
+  "_id": {
+    "$oid": "63dda53bf587fd507355c09c"
+  },
+  "name": "Frida Art",
+  "price": 49.95,
+  "image": "https://posterstore-group.imgix.net/1-43157.jpg?auto=compress%2Cformat&dpr=2&h=550&p=20&w=515&s=8717cb002af9789e000e3d88adc6af2c",
+  "description": "Art poster of painter Frida"
+},{
+  "_id": {
+    "$oid": "63dddd14f587fd507355c09d"
+  },
+  "name": "Abstract Sunset",
+  "price": 29.95,
+  "image": "https://posterstore-group.imgix.net/ps52397.jpg?auto=compress%2Cformat&dpr=2&h=550&p=20&w=515&s=979a0cd79ed567c39ac0ba78c3decd00",
+  "description": "Art poster of Abstract Sunset"
+},{
+  "_id": {
+    "$oid": "63dddf50f587fd507355c09e"
+  },
+  "name": "Bauhaus Collection 2",
+  "price": 12.99,
+  "image": "https://cdn-admin-design-library.ie.live.gelato.tech/do/Xvrj2vpDCgc/listing_large-p1-en-CA?v=1665160886",
+  "description": "Design poster of Bauhaus Collection"
+}]
